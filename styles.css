@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+body{
+
+     justify-content: center;
+     display: flex;
+     align-items: center;
+     min-height: 100vh;
+     background-color: rgb(0, 202, 229);
+}
+h1{
+    color: black;
+    font-size: 100px;
+    font-weight: 600;
+    
+}
+.input input{
+    position: relative;
+    height: 27px;
+    width: 200px;
+    color: black;
+    text-align: center;
+    justify-content: center;
+
+}
+.remeberme{
+    
+position: relative;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.register{
+    font-size: 28px;
+}
+.full{
+    background-color: rgb(227, 11, 231);
+    position: relative;
+    background-color: rgb(233, 171, 15);
+    background-size: cover;
+    height: 23vw;
+    width: 600px;
+    top: 50px;
+    bottom: auto;
+    left: auto;
+    right: auto;
+    text-align: center;
+    scroll-behavior: inherit;
+    
+}
+.login{
+    align-content: center;
+    text-align: center;
+    font-size: large;
+}
