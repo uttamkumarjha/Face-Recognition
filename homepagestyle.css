@@ -1,0 +1,7 @@
+body{
+    background-image: url(iceforu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    scroll-behavior: smooth;
+}
